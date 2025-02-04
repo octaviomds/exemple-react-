@@ -1,4 +1,9 @@
 demo app
+
+
+![Image 04-02-2025 à 02 38](https://github.com/user-attachments/assets/0a145f58-ad93-4037-bc33-f6d0cb840689)
+
+
 Partie Front :
 - React Native : framework  basé sur la librairie JavaScript React. Il permet le développement d'applications cross- plateforms et utilise les composants mobiles natifs.
  Partie Back :
